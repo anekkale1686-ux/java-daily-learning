@@ -1,0 +1,11 @@
+# Compiled Java files
+*.class
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
